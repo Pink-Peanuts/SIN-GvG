@@ -6,7 +6,9 @@
 ## Season 4
 ### [Towers](Towers-s4.md)
 ### [Forts](Forts-s4.md)
-### [Defense towers](Defense-teams-towers.md)
+### [Defense Towers](Defense-teams-towers.md)
+### [Defense Forts](Defense-teams-forts.md)
+
 
 ## Season 3
 
