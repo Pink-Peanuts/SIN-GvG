@@ -161,7 +161,7 @@ And similar configurations
 
 *10 cost* -> Pharaoh **Back slot**
 
-*10 cost* -> Daggers x2 **Back slot**
+*10 cost* -> Necros x2 **Back slot**
 
 *10 cost* -> Dogs x2 **Back slot**
 
@@ -185,9 +185,13 @@ And similar configurations
 ## Timings
 
 *10 cost* -> Rare dogs **Back slot**
+
 *22 left on valk ult* -> Daggers x2 **Back slot**
+
 *4 cost* -> Healer **Front slot**
+
 *5 cost* -> Dogs **Front slot**
+
 Bait with rare dogs, then send in epic dogs for the win
 
 </details>
