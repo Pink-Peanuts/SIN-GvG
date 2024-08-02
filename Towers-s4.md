@@ -7,13 +7,14 @@
 
 ## Team Layout
 
-![image](https://github.com/user-attachments/assets/d8c5636d-69ac-475b-9279-98c64ac94c09)
+![image](https://github.com/user-attachments/assets/d5b83857-0cce-4ca5-9701-03354aa5dbf5)
+
 
 And similar configurations
 
 ## Affiliation order
 
-![image](https://github.com/user-attachments/assets/205e8057-74cf-46f3-b9cc-e94054584143)
+![image](https://github.com/user-attachments/assets/ef9ef121-bf53-43d2-b1e2-6a2817f385fc)
 
 2 slots are free here, up to you to see what would work best as plan B should this fail.
 
@@ -23,7 +24,7 @@ And similar configurations
 
 :warning: **Rare tanks take 25 seconds to get from back slot, to the start of the farthest tile a piercer boosted marksman can reach, time around ults accordingly, to know when to start the rest of the strategy** :warning: 
 
-![image](https://github.com/user-attachments/assets/19b83027-b36c-4b80-b7ee-860800e89e31)
+![image](https://github.com/user-attachments/assets/5323bf09-ce82-4f57-9056-5b736cb6db64)
 
 
 *10 cost* -> Rare tanks **Back**
