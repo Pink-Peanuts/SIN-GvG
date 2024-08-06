@@ -1,4 +1,4 @@
-# Nightmare
+![image](https://github.com/user-attachments/assets/71e89e63-be2f-4d07-8792-0ab0c015a420)# Nightmare
 
 <details>
     
@@ -36,6 +36,42 @@ At this point it should be done already, but if you need to send in dogs, you pr
 
 
 # Piercers 
+
+
+<details>
+
+<summary><h2>Silas/Aracha/Ai/Elowyn/Brokkir</h2></summary> 
+
+#### Team Layout
+
+![image](https://github.com/user-attachments/assets/479b3752-acc6-4cb5-a0e9-b5def9f6be31)
+
+#### Affiliation order
+
+![image](https://github.com/user-attachments/assets/a6faa085-6341-45c0-832f-adaf6d66cc06)
+
+#### Timings
+
+*10 cost* -> Rare tanks **Back slot**
+
+*8 left on Silas ult* -> Maw **Back slot**
+
+*5 1/2 cost* -> Fool **Front slot**
+
+*3 1/2 cost* -> Rare flyers **Front slot**
+
+*3 cost* -> Rare flyers **Front slot**
+
+*5 cost* -> Fool **Front slot**
+
+*4 1/2 cost* -> Rare tanks **Front slot**
+
+*9 cost* -> Dogs **Front slot**
+
+*5 cost* -> Dogs **Front slot**
+
+
+</details>
 
 <details>
 
@@ -371,6 +407,70 @@ Cleanup crew could be archers possibly instead of rare fliers
 *3 cost* -> Rare flyers **Front slot**
 
 *3 cost* -> Rare flyers **Front slot**
+
+</details>
+
+------------------------------------------------------------------------------------------------------------
+
+# Watchers
+
+<details>
+
+<summary><h2>Ingrid/Ajax/Constance/Greed/Regulus</h2></summary> 
+
+#### Team Layout
+
+![image](https://github.com/user-attachments/assets/feb3f7e2-dda2-4d62-b9f6-e564e8e96f6f)
+
+
+#### Affiliation order
+
+![image](https://github.com/user-attachments/assets/52ed7b63-dfd8-42f3-9798-716b6e722ad9)
+
+
+#### Timings
+
+*10 cost* -> Maw **Back slot**
+
+*5 cost* -> Fool **Front slot**
+
+*5 cost* -> Fool **Front slot**
+
+⚠️Ajax and constance should be dead after Maws AoE ⚠️
+
+*10 cost* -> Lego flyerx2 **Front slot**
+
+*7 cost* -> Dogs **Front slot**
+
+</details>
+
+<details>
+
+<summary><h2>Ingrid/Ajax/Cyrus/Greed/Ezryn</h2></summary> 
+
+⚠️This is a BP check ⚠️
+
+#### Team Layout
+
+![image](https://github.com/user-attachments/assets/c4a9adf8-b4ee-4d9c-8940-48284eda41d9)
+
+
+#### Affiliation order
+
+![image](https://github.com/user-attachments/assets/f91c58ff-a15f-44c8-be60-60ea71a9d84a)
+
+
+#### Timings
+
+*10 cost* -> Mages **Back slot**
+
+*As soon as skeleton dies, you'll want to hover a champ for this* -> Archers x2 **Back slot**
+
+*after Ingrid beam* -> Epic flyer **Back slot**
+
+*10 cost* -> Lego flyerx2 **Front slot**
+
+*When everything is dead* -> Epic flyers
 
 </details>
 
