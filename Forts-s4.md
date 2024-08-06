@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/71e89e63-be2f-4d07-8792-0ab0c015a420)# Nightmare
 
 <details>
     
