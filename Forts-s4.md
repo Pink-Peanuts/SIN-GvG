@@ -310,7 +310,7 @@ Cleanup crew could be archers possibly instead of rare fliers
 
 <details>
 
-<summary><h2>Ghan/Sargak/Ardea/Theowin</h2>h2></summary> 
+<summary><h2>Ghan/Sargak/Ardea/Theowin</h2></summary> 
 
 #### Team Layout
 
@@ -335,6 +335,40 @@ Cleanup crew could be archers possibly instead of rare fliers
 *4 cost* -> Rare flyers **Front slot**
 
 *8 left on sargak ult* -> Archers x2 **Front slot**
+
+*3 cost* -> Rare flyers **Front slot**
+
+</details>
+
+<details>
+
+<summary><h2>Ghan/Sargak/Ardea/Greed</h2></summary> 
+
+#### Team Layout
+
+![image](https://github.com/user-attachments/assets/79ae7274-6e96-4a7a-b9ff-5918e2cede2f)
+
+#### Affiliation order
+
+![image](https://github.com/user-attachments/assets/3ada22ef-bf51-40e3-963e-4b0173047c53)
+
+#### Timings
+
+*9 1/2 cost* -> Healer **Back slot**
+
+*8 1/2 cost* -> Fool **Back slot**
+
+*9 cost* -> Maw **Front slot**
+
+*4 cost* -> Healer **Back slot**
+
+*8 left on sargak ult* -> Fool **Front slot**
+
+*7 1/2 cost* -> Archer **Front slot**
+
+*8 cost* -> Archer **Front slot**
+
+*3 cost* -> Rare flyers **Front slot**
 
 *3 cost* -> Rare flyers **Front slot**
 
