@@ -94,6 +94,7 @@ And similar configurations
 *10* -> Dogs **Front**
 
 </details>
+
 --------------------------
 
 # Northerners
