@@ -62,6 +62,38 @@ And similar configurations
 
 </details>
 
+<details>
+
+<summary><h2>Arrogance/Carne/Ghan/Ajax/Dahlia</h2></summary> 
+<br>
+
+## Team Layout
+
+![image](https://github.com/user-attachments/assets/1a9b2620-c645-45ce-8c37-af24d440b3da)
+
+
+## Affiliation order
+
+![image](https://github.com/user-attachments/assets/6038f9a9-ffc5-4d30-8ea5-cfbc8bf9b914)
+
+
+## Timings
+
+*10* -> Pharaoh **Back**
+
+*10* -> Pharaoh **Back**
+
+*10* -> Healer **Back**
+
+*10* -> Scourge x2 **Front**
+
+*3* -> Healer **Front**
+
+*10* -> Necros x2 **Back**
+
+*10* -> Dogs **Front**
+
+</details>
 --------------------------
 
 # Northerners
