@@ -1,3 +1,4 @@
+# Nightmare
 
 <details>
     
@@ -28,6 +29,38 @@
 *6 cost* -> Axe men **First slot**
 
 At this point it should be done already, but if you need to send in dogs, you probably lost, and best to send them out as soon as you can 
+
+</details>
+
+<details>
+    
+<summary><h2>Torodor/Volk/Hatssut/Arrogance/Carne (BP Swarm)</h2> </summary> 
+
+## Team Layout
+
+![image](https://github.com/user-attachments/assets/f4e3856d-0081-4ac1-b42a-6b5fee2bf750)
+
+## Affiliation order
+
+![image](https://github.com/user-attachments/assets/804b2ce0-85c0-4fc3-a20d-9f09d0da73c1)
+
+
+
+## Timings
+
+*10 cost* -> Templar **Back slot**
+
+*10 cost* -> Templar **Back slot**
+
+*10 cost* -> Healer **Back slot**
+
+*10 cost* -> Healer **Back slot**
+
+*10 cost* -> Rare tanks x2 **Back slot**
+
+*10 cost* -> Dogs x2 **Front slot**
+
+*4 cost* -> Speed lizard **Back slot**
 
 </details>
 
@@ -300,6 +333,26 @@ Send in dogs and all whenever
 *8 cost* -> Dogs **Front slot**
 
 *6 cost* -> Dogs **Front slot**
+
+#### Alternative affiliation
+
+![image](https://github.com/user-attachments/assets/4f428b9f-dba6-490a-94af-8dbe0cba40c8)
+
+#### Alternative strategy
+
+*7 cost* -> Axe men **Front slot**
+
+*10 cost* -> Maw **Back slot**
+
+*5 cost* -> Fool **Front slot**
+
+*10 cost* -> Lego flyer x2 **Front slot**
+
+*7 cost* -> Epic flyer **Front slot**
+
+*5 cost* -> Epic flyer **Front slot**
+
+
 
 </details>
 
