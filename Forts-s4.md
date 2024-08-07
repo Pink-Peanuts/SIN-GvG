@@ -304,6 +304,37 @@ Send in dogs and all whenever
 
 <details>
 
+<summary><h2>Praetus/Valk/Pelagios/Ai/Brokkir</h2></summary> 
+<br>
+
+#### Team Layout
+
+![image](https://github.com/user-attachments/assets/e3314ae8-c38c-42c7-a6a4-055660eb1d53)
+
+
+#### Affiliation order
+
+![image](https://github.com/user-attachments/assets/6287935a-803e-4fed-ab28-7283bcb2172f)
+
+
+#### Timings
+
+*10 cost* -> Knight **Back slot**
+
+*10 cost* -> Knight **Back slot**
+
+*10 cost* -> Necros x2 **Back slot**
+
+*3 cost* -> Healer **Front slot**
+
+*3 cost* -> Healer **Front slot**
+
+*4 cost* -> Speed lizard **Front slot**
+
+</details>
+
+<details>
+
 <summary><h2>Praetus/Valk/Ajax/Ai</h2></summary> 
 
 #### Team Layout
@@ -352,6 +383,30 @@ Send in dogs and all whenever
 
 *5 cost* -> Epic flyer **Front slot**
 
+#### Alternative affiliation ⚠️High soldiers and BP required ⚠️
+
+![image](https://github.com/user-attachments/assets/7e9c3518-8834-45c8-8e44-cce477771854)
+
+
+#### Alternative strategy
+
+⚠️WILL NOT WORK ON A5 BROKKIR AND IS A BIG BP CHECK ⚠️
+
+*7 cost* -> Axe men **Front slot**
+
+*10 cost* -> Archer **Front slot**
+
+*10 cost* -> Archer **Front slot**
+
+*10 cost* -> Dogs **Front slot**
+
+*8 cost* -> Lego flyer **Back slot**
+
+*6 1/2 cost* -> Lego flyer **Front slot**
+
+*5 cost* -> Epic flyer **Front slot**
+
+*6 cost* -> Dogs **Front slot**
 
 
 </details>
